@@ -5,7 +5,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
 
 # YouTube API Setup
-API_KEY = "AIzaSyAy4s0VDaiJV9Vzf_iviNzk3XsrysLwnbQ"  # Replace with your actual API key
+API_KEY = "AIzaSyAy4s0VDaiJV9Vzf_iviNzk3XbQ"  # Replace with your actual API key
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
